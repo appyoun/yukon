@@ -1,9 +1,7 @@
 
 # font
 
-## 배달의민족 을지로체
-
-- [배달의민족 폰트 라이선스](https://www.woowahan.com/#/fonts)
+## [배달의민족 을지로체](https://www.woowahan.com/#/fonts)
 
 Copyright © 2013, Woowa Brothers Corporation (https://www.woowahan.com), with Reserved Font Name BM HANNA 11yrs old, BM HANNA 11yrs old OTF, BMHANNAAir_otf, BMHANNAAir_ttf, BMHANNAPro_otf, BMHANNAPro_ttf, BM JUA_TTF, BM JUA_OTF, BM DoHyeon, BM DoHyeon OTF, BM YEONSUNG, BM YEONSUNG OTF, BM KIRANGHAERANG, BM KIRANGHAERANG OTF, BMEULJIRO, BMEULJIROTTF, BM EULJITO 10 YEARS LATER, BM EULJITO 10 YEARS LATER TTF This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 
@@ -44,7 +42,7 @@ This license becomes null and void if any of the above conditions are not met.
 DISCLAIMER
 THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
 
-## 네이버 나눔글꼴
+## [네이버 나눔글꼴](https://help.naver.com/support/contents/contents.help?serviceNo=1074&categoryNo=3497)
 
 Copyright (c) 2010, NAVER Corporation (https://www.navercorp.com/),
 
