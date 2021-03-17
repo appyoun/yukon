@@ -189,6 +189,7 @@ Copyright ⓒ Cafe24 Corp. <https://fonts.cafe24.com>
 =========================================================
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 =========================================================
+```
 
 PREAMBLE
 The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
@@ -247,4 +248,27 @@ Korean Preferred Styles Regular
 
 ----
 
-본 폰트 소프트웨어는 저작권, 특허권, 상표권 및 기타 권리의 비침해성과 특정 목적에의 적합성 포함한 명시적, 묵시적인 어떠한 종류의 보증 없이 “있는 그대로” 제공됩니다. 어떠한 경우에도 저작권자는 본 폰트 소프트웨어의 사용 또는 이의 사용불가, 그밖에 폰트 소프트웨어의 취급과 관련하여 발생하는 모든 계약, 불법행위 혹은 다른 일로 하여금 발생하는 일반적, 특수적, 간접적, 부차적 혹은 필연적 손해를 포함하는 소송, 손해, 혹은 기타 책임에 대한 의무를 가지지 않습니다.
+## 제주 서체
+
+제주전용서체 저작권
+영상매체, 인쇄매체, 웹, 모바일 등 다양한 매체에 자유롭게 사용이 가능하며, 특별한 허가절차 없이 사용할 수 있습니다.
+다만, 제주전용서체를 유료로 양도하거나 판매하는 등 상업적 행위는 금지하고 있습니다.
+
+----
+
+## 마포의 서체 
+
+마포브랜드서체저작권
+
+마포 브랜드 서체는 누구나 무료로 다운로드 받아 자유롭게 사용 가능합니다. 
+
+----
+
+## 완도군전용서체 저작권
+완도군 전용서체(완도청정바다체, 완도희망체)의 지적 재산권은 완도군(www.wando.go.kr)에 있습니다.
+완도군 전용서체는 누구나 무료로 다운로드 받아 사용할수 있습니다.
+완도군 전용서체는 영상, 인쇄, 인터넷, 모바일 등의 다양한 매체에 자유롭게 사용이 가능하며 특별한 허가절차없이 사용할수 있습니다.
+
+----
+
+ㅇhttp://www.jjtissue.com/new/fonts/index.php
