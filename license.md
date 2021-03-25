@@ -54,19 +54,19 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 
 SIL OPEN FONT LICENSE
-Version 1.1 - 26 February 2007 
+Version 1.1 - 26 February 2007
 
 DEFINITIONS
 
-"Font Software" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.  
+"Font Software" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
 
-"Reserved Font Name" refers to any names specified as such after the copyright statement(s).  
+"Reserved Font Name" refers to any names specified as such after the copyright statement(s).
 
-"Original Version" refers to the collection of Font Software components as distributed by the Copyright Holder(s).  
+"Original Version" refers to the collection of Font Software components as distributed by the Copyright Holder(s).
 
-"Modified Version" refers to any derivative made by adding to, deleting, or substituting in part or in whole any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.‘  
+"Modified Version" refers to any derivative made by adding to, deleting, or substituting in part or in whole any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.‘
 
-"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.  
+"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
 
 PREAMBLE
 
@@ -74,36 +74,36 @@ The goals of the Open Font License (OFL) are to stimulate worldwide development 
 
 to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework  in which fonts may be shared and improved in partnership with others.
 
-The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold 
+The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold
 
-by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. 
+by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works.
 
 The fonts and derivatives, however, cannot be released under any other type of license.
 
-The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.  
+The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
 
 PERMISSION & CONDITIONS
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:  
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
 
 1) Neither the Font Software nor any of its individual components,in Original or Modified Versions, may be sold by itself.
 
-2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.  
+2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
 
 3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written
-permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.  
+permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
 
-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.  
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
 
 5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
 
 TERMINATION
 
-This license becomes null and void if any of the above conditions are not met. 
+This license becomes null and void if any of the above conditions are not met.
 
 DISCLAIMER
 
-THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.  
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
 
 -----
 
@@ -256,11 +256,11 @@ Korean Preferred Styles Regular
 
 ----
 
-## 마포의 서체 
+## 마포의 서체
 
 마포브랜드서체저작권
 
-마포 브랜드 서체는 누구나 무료로 다운로드 받아 자유롭게 사용 가능합니다. 
+마포 브랜드 서체는 누구나 무료로 다운로드 받아 자유롭게 사용 가능합니다.
 
 ----
 
@@ -280,3 +280,29 @@ http://www.jjtissue.com/new/fonts/index.php
 단, 글꼴 자체를 유료로 판매하는 것은 금지하며 잘풀리는집 서체는 수정 및 재배포를 할 수 없으며, 배포되는 형태 그대로 사용해야 합니다.
 잘풀리는집 서체를 사용한 인쇄물, 광고물(온/오프라인), 상품 등의 이미지는 잘풀리는집의 마케팅을 위해 활용될 수 있습니다. 이를 원치 않는 사용자는 언제든지 당사에 요청하실 수 있습니다.
 문의 www.jjtissue.com / zalzip@naver.com
+
+## 넥슨 배찌체
+
+http://levelup.nexon.com/font/index.aspx?page=3
+
+----
+
+## 정선동강체
+
+http://www.jeongseonfont.com/license.html
+
+정선군 전용서체 라이선스
+정선군 전용서체(정선아리랑체, 정선동강체)의 지적 재산권은 정선군 (www.jeongseon.go.kr)에 있습니다. 정선군 전용서체는 개인 및 기업 사용자를 포함한 모든 사용자에게 무료로 제공합니다. 정선군 전용서체는 인쇄물, 광고물, 온라인 등 상업적 목적으로 사용할 수 있습니다.
+
+단, 글꼴 자체를 유료로 판매하는 것은 금지하며 정선군 전용서체는 수정 및 재배포를 할 수 없으며, 배포되는 형태 그대로 사용해야 합니다.
+정선군 전용서체를 사용한 인쇄물, 광고물(온라인 포함)의 이미지는 정선군 프로모션을 위해 활용될 수 있습니다.
+
+이를 원치 않는 사용자는 언제든지 당사에 요청하실 수 있습니다.
+문의 : 정선군 (www.jeongseon.go.kr)
+
+----
+
+## 어비 폰트
+
+http://uhbeefont.com/
+
