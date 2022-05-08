@@ -1,0 +1,35 @@
+
+{
+   "teamProfiles":[
+      {
+         "nickname":"데비트",
+         "imageUrl":"https://user-images.githubusercontent.com/59416592/112760586-7cb60400-9032-11eb-96e2-16a8029ccd3d.jpeg",
+         "position":"Developer",
+         "introduction":"❝\n전 진 ! 육군 1사단 출신 \nappyoun 팀을 이끌면서 개발자인 데비트 입니다.\n대한민국 자랑스러운 국군 장병님들을 위해\n군 생활에 조금이라도 도움이 되고자\n행정반 서비스를 만들게 됐습니다.\n항상 여러분들의 편의를 위해 노력하겠습니다. 😎\n❞"
+      },
+      {
+         "nickname":"minkyu",
+         "imageUrl":"https://user-images.githubusercontent.com/23225222/116969162-bc86a000-acf0-11eb-9d3b-df226ae97c65.png",
+         "position":"App Developer",
+         "introduction":"❝\n군생활 시절 자주 까먹고 정리하기 힘들었던\n휴가관리와 일정관리가 있으면 좋겠다는\n아이디어로 개발하게 되었습니다.\nappyoun 팀은 군인 장병분들께서 불편한 점이 없도록\n최선을 다 할것이며 더 나은 서비스를 항상 제공하기 위해 \n항상 노력하겠습니다 ! 💪\n❞"
+      },
+      {
+         "nickname":"ksshlee",
+         "imageUrl":"https://user-images.githubusercontent.com/45462948/137155397-bdd09763-cd34-45f8-a26e-9d6a817c4946.jpeg",
+         "position":"Server Developer",
+         "introduction":"❝\n태! 풍!\n행정반의 서버 개발자 입니다!\n여러분의 소중한 청춘의 기록장을 만들고 싶어\n행정반을 개발하게 되었습니다.\n서버에 문제가 생기면 오대기보다 빠른 속도로 해결하는데\n최선을 다하겠습니다 ! 감사합니다 !\n❞"
+      },
+      {
+         "nickname":"uzin",
+         "imageUrl":"https://user-images.githubusercontent.com/59416592/112758911-9a339f80-902b-11eb-82d5-cec826a0532c.jpeg",
+         "position":"UI/UX Designer",
+         "introduction":"❝\nappyoun 기획자 uzin입니다.\n군인이 된 소중한 친구, 가족분들에게 편의를 제공하고자\n행정반 서비스를 제작하게 되었습니다.\n여러분의 의견을 적극적으로 반영하여 \n서비스 개선에 힘쓰겠습니다. 감사합니다!\n❞"
+      },
+      {
+         "nickname":"Sam Song",
+         "imageUrl":"https://user-images.githubusercontent.com/59416592/112749925-6727e680-9000-11eb-8929-9b22d4e7811f.jpeg",
+         "position":"UI/UX Designer",
+         "introduction":"❝\nappyoun 디자이너 Sam Song입니다.\n군인이 된 여러분과 여러분들의 가족,\n지인분들 모두에게 군생활이 즐겁고\n아름다운 추억이 될 수 있도록\n유용하고 편리한 행정반을 디자인하겠습니다.\n감사합니다.\n❞"
+      }
+   ]
+}
