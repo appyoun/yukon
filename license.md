@@ -8,6 +8,12 @@ Icons made by [Freepik](https://www.freepik.com) from [Flaticon](https://www.fla
 
 # Font
 
+## [토스페이스](https://toss.im/tossface)
+
+이 페이지에는 토스팀에서 제공한 토스페이스가 적용되어 있습니다
+
+----
+
 ## [배달의민족 을지로체](https://www.woowahan.com/#/fonts)
 
 Copyright © 2013, Woowa Brothers Corporation (https://www.woowahan.com), with Reserved Font Name BM HANNA 11yrs old, BM HANNA 11yrs old OTF, BMHANNAAir_otf, BMHANNAAir_ttf, BMHANNAPro_otf, BMHANNAPro_ttf, BM JUA_TTF, BM JUA_OTF, BM DoHyeon, BM DoHyeon OTF, BM YEONSUNG, BM YEONSUNG OTF, BM KIRANGHAERANG, BM KIRANGHAERANG OTF, BMEULJIRO, BMEULJIROTTF, BM EULJITO 10 YEARS LATER, BM EULJITO 10 YEARS LATER TTF This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
