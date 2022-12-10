@@ -319,3 +319,8 @@ http://www.jeongseonfont.com/license.html
 
 http://uhbeefont.com/
 
+----
+
+## [pretendard](https://github.com/orioncactus/pretendard/blob/main/LICENSE)
+
+
