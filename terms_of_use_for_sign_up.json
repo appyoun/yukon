@@ -15,7 +15,7 @@
     "isRequired":true
   },
   "advertising":{
-    "title":"광고성 정보 수신 동의",
+    "title":"이벤트 및 맞춤 혜택 알림 수신 허용",
     "description":"목적\n• 각종 이벤트, 프로모션 관련 정보\n\n항목\n• 안내 및 마케팅 이메일, 푸시 알림 수신 동의\n\n보유기간\n• 회원탈퇴 시 또는 법정 의무 보유 기간",
     "isRequired":false
   },
