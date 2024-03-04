@@ -1,0 +1,79 @@
+{
+  "faqs": [
+    {
+      "id": 12,
+      "quest": "I'm a couple user, but if I disconnect, will the other person also disconnect?",
+      "answer": "If you disconnect a couple, the other party will know, and only calendar and diary written by you will be exposed, while posts written by the other party will not be exposed.\nHowever, the 'anniversary' of the calendar type will be deleted immediately when the couple disconnects. When you connect again as a couple, you can see the existing data."
+    },
+    {
+      "id": 11,
+      "quest": "How do I set the date of my vacation?",
+      "answer": "When you register your vacation on your calendar, your future vacation dates will be calculated as of the current date."
+    },
+    {
+      "id": 13,
+      "quest": "I'm in the a full-time reserve, but I can't see the real-time unit evaluation!",
+      "answer": "Sorry, full-time reservists do not support unit evaluation features."
+    },
+    {
+      "id": 14,
+      "question": "I can't see the bottom tab (menu). I'm in light mode, how do I get the menu?",
+      "answer": "In light mode, you can swipe (left =>right) on the home screen to get the menu!"
+    },
+    {
+      "id": 0,
+      "question": "Suddenly the screen doesn't show at all.",
+      "answer": "Please contact us right away by pressing the Contact Us button below!"
+    },
+    {
+      "id": 1,
+      "question": "I can't find diet.",
+      "answer": "Early updates are sometimes delayed at the beginning of every month. \nThe dietary information is provided \n through public data from the Ministry of National Defense. \nAs soon as the public data is updated, we are updating it right away, so please understand."
+    },
+    {
+      "id": 2,
+      "Question": "What's the calculation of the remaining workdays?",
+      "answer": "Remaining Service Days - Weekend - Holidays - Remaining Days of Vacation\nWeekends, Holidays, Remaining Days of Vacations\nYou can change whether you include weekends, holidays, or remaining days of vacation in the \nOther tab under Home > Remaining Days Calculation Settings."
+    },
+    {
+      "id": 3,
+      "quest": "I'm eligible for early advancement or promotion, can't I change it?",
+      "answer": "Other (bottom 5th tab) > Top User Information > Settings > Change the date of enlistment / advancement, and you can change it!"
+    },
+    {
+      "id": 4,
+      "question": "I paid for premium, but I don't have premium privileges.",
+      "answer": "Please check if the amount has been charged first. If you have been charged and you still don't have the authority, please contact us directly."
+    },
+    {
+      "id": 5,
+      "question": "I want to terminate the premium.",
+      "answer": "Please proceed with the refund method for each OS on Android and iOS."
+    },
+    {
+      "id": 6,
+      "question": "Why don't the comments have an anonymous feature?",
+      "answer": "We've decided not to add anonymous comments because we're worried that there will be a lot of malicious comments. We're still thinking about this."
+    },
+    {
+      "id": 7,
+      "quest": "Post & comment & unit review report cannot be processed.",
+      "answer": "We are processing reports sequentially based on community policy. Please wait."
+    },
+    {
+      "id": 8,
+      "question": "Can't post & comment. Or account suspended",
+      "answer": "We're processing reports based on community policy. If you feel unfair, please contact us directly."
+    },
+    {
+      "id": 9,
+      "question": "I want to change the unit",
+      "answer": "For accurate data, we only give you one chance to change your unit. However, we only help you change it in a very special case. Please contact us directly on the Kakao channel for the nickname of the administration team app and the name of the unit you want to change."
+    },
+    {
+      "id": 10,
+      "quest": "All vacation data has been deleted",
+      "answer": "Sorry for the inconvenience. Please contact us directly on Kakao channel along with the administration app nickname."
+    }
+  ]
+}
