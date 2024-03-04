@@ -2,17 +2,17 @@
   "faqs": [
     {
       "id": 12,
-      "quest": "I'm a couple user, but if I disconnect, will the other person also disconnect?",
+      "question": "I'm a couple user, but if I disconnect, will the other person also disconnect?",
       "answer": "If you disconnect a couple, the other party will know, and only calendar and diary written by you will be exposed, while posts written by the other party will not be exposed.\nHowever, the 'anniversary' of the calendar type will be deleted immediately when the couple disconnects. When you connect again as a couple, you can see the existing data."
     },
     {
       "id": 11,
-      "quest": "How do I set the date of my vacation?",
+      "question": "How do I set the date of my vacation?",
       "answer": "When you register your vacation on your calendar, your future vacation dates will be calculated as of the current date."
     },
     {
       "id": 13,
-      "quest": "I'm in the a full-time reserve, but I can't see the real-time unit evaluation!",
+      "question": "I'm in the a full-time reserve, but I can't see the real-time unit evaluation!",
       "answer": "Sorry, full-time reservists do not support unit evaluation features."
     },
     {
@@ -32,12 +32,12 @@
     },
     {
       "id": 2,
-      "Question": "What's the calculation of the remaining workdays?",
+      "question": "What's the calculation of the remaining workdays?",
       "answer": "Remaining Service Days - Weekend - Holidays - Remaining Days of Vacation\nWeekends, Holidays, Remaining Days of Vacations\nYou can change whether you include weekends, holidays, or remaining days of vacation in the \nOther tab under Home > Remaining Days Calculation Settings."
     },
     {
       "id": 3,
-      "quest": "I'm eligible for early advancement or promotion, can't I change it?",
+      "question": "I'm eligible for early advancement or promotion, can't I change it?",
       "answer": "Other (bottom 5th tab) > Top User Information > Settings > Change the date of enlistment / advancement, and you can change it!"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "id": 7,
-      "quest": "Post & comment & unit review report cannot be processed.",
+      "question": "Post & comment & unit review report cannot be processed.",
       "answer": "We are processing reports sequentially based on community policy. Please wait."
     },
     {
@@ -72,7 +72,7 @@
     },
     {
       "id": 10,
-      "quest": "All vacation data has been deleted",
+      "question": "All vacation data has been deleted",
       "answer": "Sorry for the inconvenience. Please contact us directly on Kakao channel along with the administration app nickname."
     }
   ]
